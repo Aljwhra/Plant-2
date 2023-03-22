@@ -38,8 +38,8 @@
 ### Get Outdoor plant info:
 <img width="1512" alt="Outdoor Operation" src="https://user-images.githubusercontent.com/116795392/226830720-56c6a488-b258-43bd-ac84-98af6d3a3d64.png">
 
-# Create Plant:
-##<img width="1512" alt="Post operation" src="https://user-images.githubusercontent.com/116795392/226830733-23285f3a-31b1-4cd0-82ff-1cea3281c9d3.png">
+### Create Plant:
+<img width="1512" alt="Post operation" src="https://user-images.githubusercontent.com/116795392/226830733-23285f3a-31b1-4cd0-82ff-1cea3281c9d3.png">
 
 ### Updata plant info:
 <img width="1512" alt="Put Operation" src="https://user-images.githubusercontent.com/116795392/226830827-6c406954-cd9e-4d93-8f71-ba57d76164de.png">
